@@ -7,7 +7,8 @@ A custom website template for your Sellix store with customizable settings and a
 ## How to Purchase
 To purchase, please visit: https://builtbybit.com/resources/all-in-one-sellix-website-template-theme.29138/
 ## Preview
-![All-In-One Sellix Website Template Theme Preview](https://i.postimg.cc/0QjhhMhz/Screenshot-2024-03-11-at-8-40-08-PM.png)
+![All-In-One Sellix Website Template Theme Preview](https://raw.githubusercontent.com/polarlines/All-In-One-Sellix-Website-Template-Theme/main/All-In-One%20Template%20for%20Sellix.jpg)
+![All-In-One Sellix Website Template Theme Preview](https://raw.githubusercontent.com/polarlines/All-In-One-Sellix-Website-Template-Theme/main/Sellix-Theme-Preview.jpg)
 
 
 ## Demo Videos
